@@ -46,7 +46,7 @@ Passionate about data analysis, dashboard development, data visualization, and s
 
 `GitHub` `Jupyter Notebook` `VS Code`
 
-### 🎯 Core Competencie
+### 🎯 Core Competencies
 
 `Data Analysis`
 `Exploratory Data Analysis (EDA)`
@@ -55,7 +55,6 @@ Passionate about data analysis, dashboard development, data visualization, and s
 `Data Visualization`
 `Statistical Analysis`
 `Predictive Modeling`
-`Data Storytelling`
 `Business Intelligence`
 
 ---
@@ -98,25 +97,4 @@ Passionate about data analysis, dashboard development, data visualization, and s
 
 ---
 
-## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paras0205\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras0205\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Paras0205\&theme=tokyonight)
-
-<!--
-**Paras0205/Paras0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
