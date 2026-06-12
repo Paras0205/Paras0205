@@ -51,40 +51,26 @@ Passionate about data analysis, dashboard development, data visualization, and s
 ## 🛠️ Technical Skills
 
 ### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+`Python` • `SQL`
 
 ### 📚 Libraries
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
 
 ### 📊 Visualization & BI Tools
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+`Power BI` • `Excel` • `Google Sheets`
 
 ### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+`MySQL`
 
 ### 🔧 Tools
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+`GitHub` • `Jupyter Notebook` • `VS Code`
 
 ### 🎯 Core Competencies
+`Data Analysis` • `Exploratory Data Analysis (EDA)` • `Data Cleaning & Preprocessing`
 
-`Data Analysis` `Exploratory Data Analysis (EDA)` `Data Cleaning & Preprocessing`
+`Dashboard Development` • `Data Visualization` • `Statistical Analysis`
 
-`Dashboard Development` `Data Visualization` `Statistical Analysis`
-
-`Predictive Modeling` `Business Intelligence`
+`Predictive Modeling` • `Business Intelligence`
 
 
 
