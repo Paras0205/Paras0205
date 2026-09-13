@@ -1,5 +1,4 @@
-# 📊 Aspiring Data Analyst | SQL • Python • Power BI • Excel
-
+# Data Analyst | SQL | Power BI | Excel | Python
 
 
 ### Transforming Raw Data into Actionable Insights for Better Business Decisions
@@ -14,16 +13,15 @@
 
 
 
-Aspiring Data Analyst with hands-on experience in **Python, SQL, Excel, and Power BI**, focused on transforming data into meaningful insights that support data-driven decision-making.
-
-
-
-My approach goes beyond working with tools—I focus on understanding the story behind the data and applying analytical thinking to solve real-world problems.
-
-
-
-Passionate about data analysis, dashboard development, data visualization, and solving real-world problems through data.
-
+I’m an aspiring Data Analyst with hands-on experience in SQL, Python, Excel, Power BI, and statistical analysis, with a strong interest in turning data into actionable business insights.
+ 
+I enjoy working across the data analytics lifecycle—from data cleaning and ETL to exploratory data analysis (EDA), visualization, dashboard development, KPI reporting, and predictive modeling. Through internships and hands-on projects, I’ve worked with real-world datasets to identify trends, analyze performance, uncover patterns, and translate findings into meaningful insights.
+ 
+What interests me most about analytics is not just working with tools, but understanding the “why” behind the data. I focus on combining analytical thinking with business context to answer questions, solve problems, and support data-driven decision-making.
+ 
+Currently pursuing a B.Tech in Artificial Intelligence & Data Science, I’m seeking opportunities in Data Analytics and Business Intelligence where I can leverage SQL, Python, Excel, and Power BI to turn complex data into actionable business insights.
+ 
+I’m always open to connecting with professionals, recruiters, and teams working in data analytics, business intelligence, and data-driven decision-making.
 
 
 ---
@@ -37,14 +35,7 @@ Passionate about data analysis, dashboard development, data visualization, and s
 📧 **Email:** [parasdhankhar02@gmail.com](mailto:parasdhankhar02@gmail.com)
 
 
-
 💼 **LinkedIn:** https://www.linkedin.com/in/paras-dhankhar
-
-
-
-🐙 **GitHub:** https://github.com/Paras0205
-
-
 
 ---
 
